@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{266195D7-C776-3BBF-4439-1924DB85B1C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Supercyan Character Pack Free Sample/Scripts/SimpleCharacterControl.cs">
+    <Files>
+      <File FileName="Assets/Supercyan Character Pack Free Sample/Scripts/Demo.cs" Line="28" Column="6" />
+      <File FileName="Assets/Supercyan Character Pack Free Sample/Scripts/SimpleCharacterControl.cs" Line="176" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 3 Escenarios" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Supercyan Character Pack Free Sample" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SimpleCharacterControl.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47870b25-75ed-4e65-80b3-48cc30e2e353" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
